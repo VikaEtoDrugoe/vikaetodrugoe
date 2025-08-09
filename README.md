@@ -6,7 +6,7 @@
 
 ---
 
-🌐 [Мой сайт](https://vikaetodrugoe.github.io)  
+🌐 [Мой сайт](https://vikaetodrugoe.github.io/vikaetodrugoe/)  
 📊 [GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikaEtoDrugoe&show_icons=true&theme=neutral&layout=compact)
 
 ---
